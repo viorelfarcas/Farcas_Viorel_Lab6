@@ -558,7 +558,7 @@ namespace Farcas_Viorel_Lab6
             lastNameValidationBinding); //setare binding nou
 
         }
-
+    //2
         private void btnPrev3_Click(object sender, RoutedEventArgs e)
         {
             customerOrdersViewSource.View.MoveCurrentToPrevious();
